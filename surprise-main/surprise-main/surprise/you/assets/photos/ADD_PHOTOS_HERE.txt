@@ -1,0 +1,1 @@
+Add couple photos here (.jpg, .jpeg, .png, .webp). The app loads them automatically.
